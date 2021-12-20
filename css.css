@@ -177,7 +177,7 @@ float:right
   flex-direction:column ;
   background-color: lavender;
   margin-top: 120px;
-  flex-wrap: wrap;
+
 }
 
 .flex-container > div {
@@ -195,7 +195,7 @@ float:right
   flex-direction: column;
   background-color: lavender;
   margin-top: 120px;
-  flex-wrap: wrap;
+  
 }
 
 .flex-container1 > div {
